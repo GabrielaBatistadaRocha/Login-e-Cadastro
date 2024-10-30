@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #ee957f;
+ }
+ input{
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+ }
+ .entrar {
+    padding: 10px;
+    width: 109%;
+ }
+ .cadastrar{
+    padding: 10px;
+    width: 110%
+ } 
