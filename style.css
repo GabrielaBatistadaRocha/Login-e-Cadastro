@@ -6,6 +6,7 @@ body{
     background-color: #7fa6eef5;
     border: rgb(0, 68, 255);
     border-style: double;
+    padding: 10%;
  }
  input{
     margin: 20px 0;
