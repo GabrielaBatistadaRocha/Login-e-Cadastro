@@ -5,6 +5,7 @@ body{
     height: 100vh;
     background-color: #ee957f;
     border: rgb(255, 0, 0);
+    border-style: double;
  }
  input{
     margin: 20px 0;
