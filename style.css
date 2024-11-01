@@ -3,9 +3,9 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #ee957f;
+    background-color: #ee957ff5;
     border: rgb(255, 72, 0);
-    border-style: double;
+    border-style: ridge;
  }
  input{
     margin: 20px 0;
