@@ -6,6 +6,9 @@ body{
     background-color: #7fa6eef5;  
     padding: 10px;
 }
+.tabela{
+   border: 1px;
+}
  input{
     margin: 20px 0;
     width: 100%;
