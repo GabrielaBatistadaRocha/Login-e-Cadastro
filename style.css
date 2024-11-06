@@ -3,10 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #7fa6eef5;s  
-   border: rgb(0, 68, 255);
-   border-style: double;
-   width: 20%;
+    background-color: #7fa6eef5;  
 }
  input{
     margin: 20px 0;
