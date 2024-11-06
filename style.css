@@ -4,6 +4,7 @@ body{
     justify-content: center;
     height: 100vh;
     background-color: #7fa6eef5;  
+    padding: 10px;
 }
  input{
     margin: 20px 0;
