@@ -8,6 +8,7 @@ body{
 }
 .tabela{
    border: 1px;
+   border-color: aqua;
 }
  input{
     margin: 20px 0;
